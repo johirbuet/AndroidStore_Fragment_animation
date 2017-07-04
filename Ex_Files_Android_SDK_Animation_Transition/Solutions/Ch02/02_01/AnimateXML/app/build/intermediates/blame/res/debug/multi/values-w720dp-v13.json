@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/mislam/Downloads/Ex_Files_Android_SDK_Animation_Transition/Solutions/Ch02/02_01/AnimateXML/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w720dp-v13/values-w720dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 76,
+                    "endOffset": 127
+                },
+                "from": {
+                    "file": "/Users/mislam/.android/build-cache/83b2dc6224bad96c8748106182a86b09e75aca31/output/res/values-w720dp-v13/values-w720dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 76,
+                        "endOffset": 127
+                    }
+                }
+            }
+        ]
+    }
+]

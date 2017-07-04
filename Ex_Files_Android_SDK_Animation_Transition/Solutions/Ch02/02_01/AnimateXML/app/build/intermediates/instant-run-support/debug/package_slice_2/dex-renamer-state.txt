@@ -1,0 +1,4 @@
+#Tue Jul 04 18:50:17 CDT 2017
+base.0=/Users/mislam/Downloads/Ex_Files_Android_SDK_Animation_Transition/Solutions/Ch02/02_01/AnimateXML/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2
+renamed.0=classes.dex
+file.0=/Users/mislam/Downloads/Ex_Files_Android_SDK_Animation_Transition/Solutions/Ch02/02_01/AnimateXML/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex

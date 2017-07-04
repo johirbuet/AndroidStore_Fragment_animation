@@ -1,0 +1,19 @@
+#Tue Jul 04 18:50:17 CDT 2017
+renamed.5=classes.dex
+renamed.4=classes2.dex
+renamed.3=classes4.dex
+renamed.2=classes5.dex
+renamed.1=classes6.dex
+renamed.0=classes3.dex
+base.5=/Users/mislam/Downloads/Ex_Files_Android_SDK_Animation_Transition/Solutions/Ch02/02_01/AnimateXML/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0421c8ac2f2354bba2f9359a00bd7b85614a5564
+base.4=/Users/mislam/Downloads/Ex_Files_Android_SDK_Animation_Transition/Solutions/Ch02/02_01/AnimateXML/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1b2676c7fe9c8339dfa7771c42a2611efae0e0a7
+base.3=/Users/mislam/Downloads/Ex_Files_Android_SDK_Animation_Transition/Solutions/Ch02/02_01/AnimateXML/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fbb116ed20832b1d1c5b06393b099a6f61d00048
+base.2=/Users/mislam/Downloads/Ex_Files_Android_SDK_Animation_Transition/Solutions/Ch02/02_01/AnimateXML/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_00609c986f541731db91ce675c72080d525c5122
+base.1=/Users/mislam/Downloads/Ex_Files_Android_SDK_Animation_Transition/Solutions/Ch02/02_01/AnimateXML/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_4558688d19e4d6dc8410bf325bb3b3fc8bf57992
+base.0=/Users/mislam/Downloads/Ex_Files_Android_SDK_Animation_Transition/Solutions/Ch02/02_01/AnimateXML/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6df630df4e4078c1b843c1321fc913a7e2d368d5
+file.5=/Users/mislam/Downloads/Ex_Files_Android_SDK_Animation_Transition/Solutions/Ch02/02_01/AnimateXML/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0421c8ac2f2354bba2f9359a00bd7b85614a5564/classes.dex
+file.4=/Users/mislam/Downloads/Ex_Files_Android_SDK_Animation_Transition/Solutions/Ch02/02_01/AnimateXML/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1b2676c7fe9c8339dfa7771c42a2611efae0e0a7/classes.dex
+file.3=/Users/mislam/Downloads/Ex_Files_Android_SDK_Animation_Transition/Solutions/Ch02/02_01/AnimateXML/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fbb116ed20832b1d1c5b06393b099a6f61d00048/classes.dex
+file.2=/Users/mislam/Downloads/Ex_Files_Android_SDK_Animation_Transition/Solutions/Ch02/02_01/AnimateXML/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_00609c986f541731db91ce675c72080d525c5122/classes.dex
+file.1=/Users/mislam/Downloads/Ex_Files_Android_SDK_Animation_Transition/Solutions/Ch02/02_01/AnimateXML/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_4558688d19e4d6dc8410bf325bb3b3fc8bf57992/classes.dex
+file.0=/Users/mislam/Downloads/Ex_Files_Android_SDK_Animation_Transition/Solutions/Ch02/02_01/AnimateXML/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6df630df4e4078c1b843c1321fc913a7e2d368d5/classes.dex

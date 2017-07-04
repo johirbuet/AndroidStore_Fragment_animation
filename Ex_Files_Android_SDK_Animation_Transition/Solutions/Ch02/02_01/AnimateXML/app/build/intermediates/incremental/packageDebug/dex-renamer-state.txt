@@ -1,0 +1,7 @@
+#Tue Jul 04 18:50:17 CDT 2017
+base.0=/Users/mislam/Downloads/Ex_Files_Android_SDK_Animation_Transition/Solutions/Ch02/02_01/AnimateXML/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b1511804aad862c104fa988d9cbadd37b86d4052
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/mislam/Downloads/Ex_Files_Android_SDK_Animation_Transition/Solutions/Ch02/02_01/AnimateXML/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_6d0ac62dff618e364a0a91f9871b840320c4bf30/classes.dex
+base.1=/Users/mislam/Downloads/Ex_Files_Android_SDK_Animation_Transition/Solutions/Ch02/02_01/AnimateXML/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_6d0ac62dff618e364a0a91f9871b840320c4bf30
+file.0=/Users/mislam/Downloads/Ex_Files_Android_SDK_Animation_Transition/Solutions/Ch02/02_01/AnimateXML/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b1511804aad862c104fa988d9cbadd37b86d4052/classes.dex
